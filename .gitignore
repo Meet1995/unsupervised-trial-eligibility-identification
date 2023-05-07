@@ -6,6 +6,7 @@ __pycache__/
 # data files
 *.parquet
 *.csv
+*.mp4
 
 # C extensions
 *.so
